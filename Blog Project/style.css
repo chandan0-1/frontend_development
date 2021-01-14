@@ -1,0 +1,36 @@
+/*-----header-----*/
+#main-header {
+    height: 450px;
+}
+
+#main-header p {
+    font-size: 28px;
+    color:black;
+    p:hover{ color:orange;}
+}
+
+#main-header p:hover{
+
+     color:orange;
+}
+
+#about-site {
+    color: grey;
+}
+
+
+
+/*-----main-----*/
+h1 {
+    font-size: 40px;
+    color: darkslategrey;
+    font-family: sans-serif;
+}
+
+#blog-content {
+    width: 1000px;
+}
+
+.h-style {
+    color: darkslategrey;
+}
